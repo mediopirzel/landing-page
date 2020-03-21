@@ -266,6 +266,10 @@ section.current-section .landing__container::after {
     animation: rotate 5s linear 0s infinite forwards reverse;
 }
 
+section.current-section h2{
+    color: #cc1;
+}
+
 /* Section Active Styles Keyframe Animations */
 @keyframes rotate {
 	from {
